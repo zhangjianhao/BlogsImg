@@ -1,11 +1,10 @@
 
-
+<div align="right"><img align="right" src="https://github.com/zhangjianhao/zhangjianhao.github.io/blob/master/uploads/head.jpg" width="90px" height="110px"/></div>
 # 张建浩的个人简历
 
 > 爱编程,爱钻研,爱开源, 爱分享,做一个有文化的程 序员,用代码改变世界,用技术创造未来。
-
 ---
-<div align="right"><img src="https://github.com/zhangjianhao/zhangjianhao.github.io/blob/master/uploads/head.jpg" style="width:50px;height:50px;"/></div>
+
 
 # 联系方式
 
