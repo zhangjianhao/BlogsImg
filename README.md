@@ -22,7 +22,7 @@
 - 技术博客: http://zjianhao.cn 
 - GitHub:  http://github.com/zhangjianhao
 - 期望职位: Android开发工程师
-- 专业排名: Top5
+- 专业排名: Top 10%
 
 ---
 
