@@ -7,7 +7,9 @@
 ## 1. 学习记录数据上传
 
 客户端请求url: http://ip:80/pscstudy/api/user/study_records
+
 请求方式：post
+
 参数列表
 
 | 参数名称      |    数据类型  |是否必须 |描述|
