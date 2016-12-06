@@ -16,7 +16,7 @@
 | :-------- | :--------     |:------| :-----------------|
 | deviceId    |  String    |是   | 设备的id,用于区分用户      |
 | appId    |  String    |是   | 应用包名，用于区分上传数据的app身份，本应用使用com.guet.pscstudy作为appId      |
-| app_token    |  String    |是   | 用于验证app身份，默认值为："xxx"，应用每次后台上传数据必须携带此token      |
+| app_token    |  String    |是   | 用于验证app身份，默认值为："907411cf-18b9-4fd6-8810-316e4e2f1370"，应用每次后台上传数据必须携带此token      |
 | data    |  String(Json)    |否   | 学习记录数据     |
 
 data json 数据格式,如：
